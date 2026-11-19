@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/tiny-chess-01/qfxydx/tiny-chess-01/rank.svg)](https://make.fun/bounty/tiny-chess-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 [![reward](https://make.fun/badge/tiny-chess-01/qfxydx/tiny-chess-01/reward.svg)](https://make.fun/bounty/tiny-chess-01?utm_source=github&utm_medium=readme&utm_campaign=tiny-chess-01)
 
-A 4 KB Python chess engine. Alpha-beta search with quiescence, transposition table, killer-move ordering and MVV-LVA capture ordering. Fixed 80,000-node budget per move, fully deterministic, standard library only.
+A 4 KB Python chess engine. Alpha-beta search with quiescence, transposition table, killer-move ordering and MVV-LVA capture ordering. Fixed 80,000-node budget per move, fully deterministic, standard library only. The entrypoint is packed with the make.fun kit's `compress` (2,252 bytes).
 
 ## Run it
 
